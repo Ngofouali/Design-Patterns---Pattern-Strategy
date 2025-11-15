@@ -30,7 +30,7 @@ Le pattern Strategy propose de :
 <h4>Interface Strategy</h4>
 <img src="captures/IStrategie.png">
 <h4>Stratégies Concrètes</h4>
-<img src="captures/DefaultStrategies.png">
+<img src="captures/DefaultStrategie.png">
 <br/>
 <img src="captures/StrategieImpl1.png">
 <br/>
